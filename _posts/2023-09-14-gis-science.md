@@ -2,7 +2,7 @@
 title: "Is GIS a Science?"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - GIS
   - Science
@@ -12,4 +12,4 @@ As Wright et al. explain in their 1997 article GIS: Tool or science? Demystifyin
 
 \ I think it is interesting to consider GIS to be a process, and the process of designing a workflow, or developing and improving tools to be a science. I do agree with Wright et al. that GIS enables the scientific process of hypothesis testing, of describing, explaining and predicting, and of understanding the world. It is “an environment as well as a method used to discover, explore, and test spatial theory” (Wright et al., 1997). I think that through using GIS, I have had the chance to both ask spatial problems and work towards understanding and answering them, which to me, is what science is all about.  
 
-Link to [another post](/_posts/gis-science/)
+Link to [another post](/blog/welcome-to-jekyll/)
