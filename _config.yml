@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Madeleine Gallop"
-  avatar : headshot.jpg
+  avatar : "/assets/images/headshot.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
