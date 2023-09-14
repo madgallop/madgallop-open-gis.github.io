@@ -16,7 +16,7 @@
 title: Madeleine's Epic Open GIScience Blog
 email: mgallop@middlebury.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A documentation of my work and learning in Open GIScience during Fall2023
+  A documentation of my work and learning in GEOG 0323: Open GIScience in Fall2023
 twitter_username: madgallop
 github_username: madgallop
 minimal_mistakes_skin: default
@@ -62,28 +62,28 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://madeleinegallop.myportfolio.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/madgallop"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/madgallop"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/m.gallop/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/madgallop"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/madgallop"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/m.gallop"
 
 defaults:
   # _posts
@@ -93,7 +93,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
