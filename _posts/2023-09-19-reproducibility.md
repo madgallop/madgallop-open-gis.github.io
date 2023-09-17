@@ -7,7 +7,9 @@ tags:
   - GIS
   - Reproducibility
 ---
+
 ![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TEDxMacc/TEDx_Macc5_2019_Rachael.jpg)
+
 In the recent past, the geography community, like many scientific fields, has had to deal with a pressing challenge, the reproducibility crisis. The explosion of available data and the surplus of tools at our disposal to work with the data have triggered a few fundamental questions: 
 
 - How can we generate reliable knowledge? 
