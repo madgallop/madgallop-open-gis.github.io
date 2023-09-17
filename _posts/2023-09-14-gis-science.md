@@ -1,6 +1,5 @@
 ---
 title: "Is GIS a Science?"
-bibliography: refs.bib
 excerpt_separator: "<!--more-->"
 categories:
   - blog
