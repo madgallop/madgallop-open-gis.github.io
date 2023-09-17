@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Madeleine Gallop"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I am a student at Middlebury College majoring in Geography and Arabic, and minoring in Computer Science. I am from Boulder, CO."
+  bio    : "I am a senior at Middlebury College majoring in Geography and Arabic and minoring in Computer Science. I am from Boulder, CO."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
