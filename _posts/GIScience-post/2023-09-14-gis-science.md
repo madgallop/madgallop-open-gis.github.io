@@ -9,7 +9,7 @@ tags:
   - Science
 ---
 
-![Alt Text](/assets/images/GIScience.jpg)
+![GIScience](/Users/madeleinegallop/Documents/fall2023/OpenGIS/open-gis-git/Untitled/assets/images/GIScience.jpg)
 
 In their engaging 1997 article titled “GIS: Tool or science? Demystifying the persistent ambiguity of GIS as ‘tool’ versus ‘science’”, Wright, Goodchild, and Proctor delve into the multifaceted nature of Geographic Information Systems (GIS). The authors argue that there are three distinct discourses surrounding GIS and its applications: GIS is a tool, GIS is toolmaking, and GIS is science. After reading about these three perspectives and reflecting on my own personal journey with GIS, I find myself increasingly drawn to the notion of GIS as a science in its own right. 
 
