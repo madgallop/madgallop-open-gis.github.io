@@ -9,7 +9,7 @@ tags:
   - Science
 ---
 
-![GIS Science](/assets/images/gis-science.png)
+![GIS Science](https://github.com/madgallop/open-gis/blob/master/assets/images/gis-science.png?raw=true)
 
 In their engaging 1997 article titled _GIS: Tool or science? Demystifying the persistent ambiguity of GIS as ‘tool’ versus ‘science’_, Wright, Goodchild, and Proctor delve into the multifaceted nature of Geographic Information Systems (GIS). The authors argue that there are three distinct discourses surrounding GIS and its applications: 
 
