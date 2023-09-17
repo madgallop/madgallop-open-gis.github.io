@@ -9,12 +9,18 @@ tags:
   - Science
 ---
 
-![Is GIS a sceince](/assets/images/GIScience.jpg)
+![Alt Text](/assets/images/GIScience.jpg)
 
-As Wright et al. explain in their 1997 article GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science”, GIS can be practiced and perceived as a scientific tool, toolmaking for science, or as a science itself {% cite wright1997, pp.354 %}  After reading the article and reflecting on my own experience with GIS, I think that while I have predominantly experienced GIS as a tool throughout my academic career, I am increasingly attuned to the merit of and swayed by perceiving GIS as a science within itself. Like many students, I first came into contact with GIS through taking GEOG120, where students learn about the myriad of tools in the Processing Toolbox and how to apply them to a given spatial problem. Before I studied Geography, I came from a more computational background, where many of the “data problems” I faced in GIS I could imagine a workflow for at least parts of in Python or R. Thus, I perceived GIS as just another method to achieve the results I could work towards using another technical tool. However, as more time passed, I found myself increasingly interested in the unique capabilities GIS provides to solving spatial problems. Quickly, I began turning to GIS to aid some of my pursuits in Computer Science, drafting out workflows and relying on tools such as Group By.
+In their engaging 1997 article titled “GIS: Tool or science? Demystifying the persistent ambiguity of GIS as ‘tool’ versus ‘science’”, Wright, Goodchild, and Proctor delve into the multifaceted nature of Geographic Information Systems (GIS). The authors argue that there are three distinct discourses surrounding GIS and its applications: GIS is a tool, GIS is toolmaking, and GIS is science. After reading about these three perspectives and reflecting on my own personal journey with GIS, I find myself increasingly drawn to the notion of GIS as a science in its own right. 
 
-I think it is interesting to consider GIS to be a process, and the process of designing a workflow, or developing and improving tools to be a science. I do agree with Wright et al. that GIS enables the scientific process of hypothesis testing, of describing, explaining and predicting, and of understanding the world. It is “an environment as well as a method used to discover, explore, and test spatial theory” (Wright et al., 1997). I think that through using GIS, I have had the chance to both ask spatial problems and work towards understanding and answering them, which to me, is what science is all about.\  
+I first encountered GIS as a student in GEOG120. This course introduced me to spatial problems and the vast array of tools available in the Processing Toolbox which I could employ to solve them. Before I became accustomed to spatial analysis and methodologies, I was more familiar with using tools like Python for “data problems” similar to the ones I encountered in GIS. Consequently, I regarded GIS as simply another technical tool I could turn to. 
 
-Link to [another post](/open-gis/blog/welcome-to-jekyll/)
+However, as I began spending more time using GIS for research purposes and even for problems in my computer science classes, my perspective shifted. Now, I recognize the unique capabilities GIS offers for designing, understanding and solving spatial problems. 
+
+I find the concept of GIS as a process to be particularly interesting. I could consider the very act of devising workflows of refining the tools GIS bundles together to be a scientific endeavor in itself. In alignment with Wright et al.’s perspective, I agree that GIS facilitates the scientific method. It is a software suited to help us form and test hypotheses, describe, explain, predict, and ultimately gain a deeper understanding of the world around us. As the authors describe it, GIS is “an environment as well as a method used to discover, explore, and test spatial theory”. 
+
+Through my journey with GIS, I have had the chance to both pose spatial questions and to actively work towards comprehending and addressing them. To me, this embodies the essence of science—a continuous process and framework for generating knowledge and understanding.  
+
+
 
 
